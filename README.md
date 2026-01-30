@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/660180b2-4c27-4967-bda2-b2d99ea3d342" alt="Clash" width="200">
+  <img src="https://github.com/user-attachments/assets/eebcac7d-b962-4364-b5fe-9c126827505e" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
 
